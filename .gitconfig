@@ -1,0 +1,8 @@
+[user]
+	email = "hello@alexjcoleman.me"
+	name = "Alex Coleman"
+[init]
+	defaultBranch = "main"
+[core]
+	editor = "vim"
+
